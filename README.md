@@ -10,4 +10,4 @@ I use this repository to post some works that I pass my time in. Here you will f
 
 ## Languages and Tools
 
-[![Daher's GitHub stats](https://github-readme-stats.vercel.app/api?username=daher13)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daher13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
