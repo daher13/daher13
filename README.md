@@ -1,4 +1,4 @@
-# Hello world!
+# Hello, world!
 
 ## I'm Guilherme Daher! Welcome to my GitHub!
 
