@@ -4,7 +4,7 @@
 
 - 💻 Full stack developer
 - 🐧 Slackware Linux User 🤟
-- 🍀 Passionate about devops technologies
+- 🍀 Passionate about DevOps technologies
 
 I use this repository to post some works that I pass my time in. Here you will find some interesting Linux scripts, dotfiles and full stack applications. Furthermore, I usually share some works in progress. Have fun! 😎
 
