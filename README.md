@@ -2,9 +2,9 @@
 
 ## I'm Guilherme Daher! Welcome to my GitHub!
 
-- 💻 Full stack developer
-- 🐧 Slackware Linux User 🤟
-- 🍀 Passionate about DevOps technologies
+- 💻 DevOps Engineer
+- 🐧 Slackware/Arch Linux User 🤟
+- 🍀 Passionate about new technologies
 
 I use this repository to post some works that I pass my time in. Here you will find some interesting Linux scripts, dotfiles and full stack applications. Furthermore, I usually share some works in progress. Have fun! 😎
 
