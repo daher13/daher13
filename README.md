@@ -24,7 +24,7 @@ Kubernetes · Docker/Podman · Terraform · CI/CD · Git · Linux
 Python · Go · Bash · Web Development
 
 **Currently exploring**  
-SRE · DevSecOps · MLOps · Cloud Architecture · Kubernetes
+SRE · DevSecOps · Cloud Architecture · Kubernetes
 
 ---
 
